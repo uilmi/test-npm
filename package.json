@@ -1,0 +1,23 @@
+{
+  "name": "latihan-ch-5",
+  "version": "1.0.0",
+  "description": "Belajar menggunakan npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uilmi/test-npm.git"
+  },
+  "keywords": [
+    "belajar",
+    "javascript"
+  ],
+  "author": "ulul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uilmi/test-npm/issues"
+  },
+  "homepage": "https://github.com/uilmi/test-npm#readme"
+}
